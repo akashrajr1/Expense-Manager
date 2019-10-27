@@ -14,3 +14,7 @@ An expense manager for my daily usage
 
 - [x] Home Screen with various Services
 - [x] Paytm Screen which is just a history of Paytm Usage
+
+## Screens:
+#### Home Screen
+<img src="https://raw.githubusercontent.com/akashrajr1/Expense-Manager/master/assets/images/Exp_Mng.jpeg" alt="Home Screen" width="300"/>
